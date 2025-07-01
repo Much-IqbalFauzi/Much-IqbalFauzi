@@ -45,7 +45,7 @@ _A forum to talk about Information Technology, especially in the field of IT Sec
 # Jachi
 
 <div>
-    <img src="https://raw.githubusercontent.com/Much-IqbalFauzi/Much-IqbalFauzi/refs/heads/main/assets/jachi.png" width="160" />
+    <img src="https://raw.githubusercontent.com/Much-IqbalFauzi/Much-IqbalFauzi/refs/heads/main/assets/jachi.png" />
 </div>
 
 ### Background Story
