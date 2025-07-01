@@ -51,11 +51,11 @@ _A forum to talk about Information Technology, especially in the field of IT Sec
 ### Background Story
 _High school students learning Mandarin often struggle with accurate pronunciation, leading to misunderstandings in real-life conversations. Many of them want to prepare their Mandarin daily conversation  specifically for transactional conversations because these are common and important in real-life interactions. There is an opportunity to design an interactive solution that helps students practice and receive real-time, predictive feedback on their pronunciation accuracy in these contexts, enabling more confident and effective communication with native speakers._
 
-- Synthesis: _We learned that learning Chinese pronounciation is hard as a beginner due to its variety of vowels and tones but currently Chinese language act as a second international language making it one of the most wanted to be learned language._
-- Challenge: _Helping user on learning basic mandarin pronunciation as a beginner with the help of sound ML experience_ 
-- Solution: _JaChi is an interactive app that helps users master Mandarin pronunciation through real-life bargaining scenarios. Designed to make language learning practical and engaging, JaChi focuses on accurate tones, natural speech, and cultural context—so users can speak confidently and convincingly in everyday situations. _
-- Role: **Frontend Developer**
-- Interesting Thing:
+- **Synthesis**: _We learned that learning Chinese pronounciation is hard as a beginner due to its variety of vowels and tones but currently Chinese language act as a second international language making it one of the most wanted to be learned language._
+- **Challenge**: _Helping user on learning basic mandarin pronunciation as a beginner with the help of sound ML experience_ 
+- **Solution**: _JaChi is an interactive app that helps users master Mandarin pronunciation through real-life bargaining scenarios. Designed to make language learning practical and engaging, JaChi focuses on accurate tones, natural speech, and cultural context—so users can speak confidently and convincingly in everyday situations. _
+- **Role**: _Frontend Developer_
+- **Interesting Thing**:
     - _The color seem not match with the purpose of language learning application._
     - _The data model accuracy is not that good, the result shows overfit._
     - _The time management is really fitted due to long decision making in deciding user persona and smaller data needs_
