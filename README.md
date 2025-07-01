@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Muchamad Iqbal Fauzi - aka [Iqbal]()
+# _Hi there 👋 I'm Muchamad Iqbal Fauzi - aka [Iqbal]()_
 ## I'm a Mobile Engineer
 
 - 💻 Software Engineer that focussed on Mobile development with 4+ years experience
@@ -15,7 +15,7 @@
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,figma,firebase,linux,arch,bash,androidstudio,vscodium)](https://skillicons.dev)
 
-## Get in touch
+## _Get in touch_
 
 <a href="https://www.instagram.com/zipeco">
     <img src="https://skillicons.dev/icons?i=instagram" width="30" />
@@ -40,7 +40,7 @@ _A forum to talk about Information Technology, especially in the field of IT Sec
     <img src="https://skillicons.dev/icons?i=instagram" width="30" />
 </a>
 
-# What I Do!!
+# **What I Do!!**
 
 ## Jachi
 
