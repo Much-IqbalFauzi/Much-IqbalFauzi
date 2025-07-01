@@ -6,15 +6,6 @@
 - 🌱 I’m currently learning Swift/SwiftUI in Apple Developer Academy
 - ⚡ Fun fact: "**Towards Infinity and Beyond it**"
 
-### Language
-[![My Skills](https://skillicons.dev/icons?i=kotlin,swift,js,ts,cpp,python,lua)](https://skillicons.dev)
-
-### Library & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,express)](https://skillicons.dev)
-
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,figma,firebase,linux,arch,bash,androidstudio,vscodium)](https://skillicons.dev)
-
 # _**Get in touch**_
 
 <a href="https://www.linkedin.com/in/muchamad-iqbal-fauzi">
@@ -29,6 +20,21 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="50" />
 </a>
 
+### Language
+[![My Skills](https://skillicons.dev/icons?i=kotlin,swift,js,ts,cpp,python,lua)](https://skillicons.dev)
+
+### Library & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,express)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,figma,firebase,linux,arch,bash,androidstudio,vscodium)](https://skillicons.dev)
+
+### Stats
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Much-IqbalFauzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+    <img width="49%" height="150em" src="https://github-readme-stats.vercel.app/api?username=Much-IqbalFauzi&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+</div>
+
 ## Community: Arisan Security
 _A forum to talk about Information Technology, especially in the field of IT Security. A-SEC is open to all elements of society._
 
@@ -39,11 +45,6 @@ _A forum to talk about Information Technology, especially in the field of IT Sec
 <a href="https://www.instagram.com/arisansecurity.id/">
     <img src="https://skillicons.dev/icons?i=instagram" width="30" />
 </a>
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Much-IqbalFauzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-    <img width="49%" height="150em" src="https://github-readme-stats.vercel.app/api?username=Much-IqbalFauzi&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-</div>
 
 
 # **What I Do!!**
